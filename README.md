@@ -1,13 +1,12 @@
-# Introduction
+# Android Study Jam
 
 <a href="https://circleci.com/gh/DavidEdwards/mvvm-example" rel="nofollow"><img src="https://camo.githubusercontent.com/8bcd2a6949804ef9f16e822984794564127f9aae/68747470733a2f2f636972636c6563692e636f6d2f67682f4461766964456477617264732f6d76766d2d6578616d706c652e7376673f7374796c653d73766726636972636c652d746f6b656e3d32613338646336323061396133313636366661646236366565326366396633383237343936326338" alt="CircleCI" data-canonical-src="https://circleci.com/gh/DavidEdwards/mvvm-example.svg?style=svg&amp;circle-token=2a38dc620a9a31666fadb66ee2cf9f38274962c8" style="max-width:100%;"></a>   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/94a7fdde39447afc77c39c944b11c42a7bee5237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d31372532422d627269676874677265656e2e737667"><img src="https://camo.githubusercontent.com/94a7fdde39447afc77c39c944b11c42a7bee5237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d31372532422d627269676874677265656e2e737667" alt="API" data-canonical-src="https://img.shields.io/badge/API-17%2B-brightgreen.svg" style="max-width:100%;"></a>
 
-🗒️ Simple Note App helps to to create your notes. You can 📝 edit and ❌ delete notes too. 
-App respects its Mvvm architecture. Android Architecture Components
-Part of Android Jetpack. Android architecture components are a collection of libraries that help 
-you design robust, testable, and maintainable apps.
-
-Proudly 💪 made in Kotlin
+🗒️ Notes app is used for making short text notes,📝 updating when you need them, and ❌trashing
+when you are done. It can be used for various functions as you can add your to-do list in this
+app, some important notes for future reference, etc. The app is very useful in some cases like
+when you want quick access to the notes. Likewise, here let’s create an Android App to learn
+how to create a simple Notes app.
 
 <h4>Features</h4>
 <ul>
@@ -28,9 +27,9 @@ Proudly 💪 made in Kotlin
 </thead>
 <tbody>
 <tr>
-<td> <img src="app/src/main/res/drawable/add.mp4" width="150" ></td>
-<td> <img src="app/src/main/res/drawable/edit.mp4" width="150" ></td>
-<td> <img src="app/src/main/res/drawable/delete.mp4" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/add.gif" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/edit.gif" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/delete.gif" width="150" ></td>
 </tr>
 </tbody>
 </table>
