@@ -25,7 +25,7 @@ how to create a simple Notes app.
 </thead>
 <tbody>
 <tr>
-<td> <img src="app/src/main/res/drawable/add.mp4" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/add.gif" width="150" ></td>
 <td> <img src="app/src/main/res/drawable/edit.gif" width="150" ></td>
 <td> <img src="app/src/main/res/drawable/delete.gif" width="150" ></td>
 </tr>
