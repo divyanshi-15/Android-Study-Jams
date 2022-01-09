@@ -52,7 +52,7 @@ and can return RxJava, Flowable and LiveData observables.</li>
 that isn't destroyed on app rotations.</li>
 <li>Repository: The repository depends on a persistent data model and a remote backend data source.</li>
 
-<img src="app/src/main/res/drawable/arc.png" width="700" >
+
 <br>
 
 
