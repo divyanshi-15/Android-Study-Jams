@@ -1,5 +1,11 @@
 # Android Study Jam
 
+Problem Statement :
+Now-a-days everything has went online. People face problem in remembering their activities in their day to day life. Technology plays a vital role in day-to-day life activities which in turns made a great changes in many work fields and out of them Mobile Application is one of major developments. Mobile Application can be used effectively for this job as they are widely used and are known for easy access.
+
+Proposed Solution:
+
+This project proposed a "Notes App" to keep notes of your important things.
 🗒️ Notes app is used for making short text notes,📝 updating when you need them, and ❌trashing
 when you are done. It can be used for various functions as you can add your to-do list in this
 app, some important notes for future reference, etc. The app is very useful in some cases like
