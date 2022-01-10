@@ -1,6 +1,7 @@
 # Android Study Jam
 
 Problem Statement :
+
 Now-a-days everything has went online. People face problem in remembering their activities in their day to day life. Technology plays a vital role in day-to-day life activities which in turns made a great changes in many work fields and out of them Mobile Application is one of major developments. Mobile Application can be used effectively for this job as they are widely used and are known for easy access.
 
 Proposed Solution:
